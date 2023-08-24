@@ -1,6 +1,6 @@
 {
     "python.analysis.typeCheckingMode": "off",
-    "editor.quickSuggestionsDelay": 5,
+    "editor.quickSuggestionsDelay": 3,
     "editor.quickSuggestions": {
         "strings": "on"
     }
